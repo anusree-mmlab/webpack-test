@@ -13,6 +13,4 @@ logoFlasher();
     document.getElementById('text-container').innerHTML = currentText;
 
     document.getElementById('text_val').value = '';
-
-    console.log('text..', text);
 }
